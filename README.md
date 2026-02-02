@@ -40,12 +40,17 @@ I enjoy building real-world applications and continuously improving my skills.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=dark&count_private=true" />
+<img src="https://img.shields.io/github/followers/DWRSH?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/DWRSH?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/DWRSH/smart-note-taker?style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=dark" />
+<img src="https://img.shields.io/badge/Top%20Language-JavaScript-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-Native-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expo-Mobile-success?style=for-the-badge" />
 </p>
+
 
 
 
