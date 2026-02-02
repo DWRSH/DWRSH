@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Darsh%20Prajapati&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Web%20and%20Mobile%20Future&descAlignY=55&descSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
@@ -7,8 +7,6 @@ div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Native+%2F+Expo+Wizard;Open+Source+Enthusiast;Python+Scripter" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;MERN+Stack+Specialist;React+Native+%2F+Expo;Always+Learning+New+Tech" />
