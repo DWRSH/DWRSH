@@ -65,7 +65,7 @@ I enjoy building real-world applications and continuously improving my skills.
 <img src="https://img.shields.io/badge/LinkedIn-2088FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:darsh@example.com">
+<a href="mailto:darshprajapati1510@gmail.com">
 <img src="https://img.shields.io/badge/Email-2088FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
