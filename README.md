@@ -36,9 +36,9 @@
     </td>
     <td width="45%" valign="center">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&icon_color=2088FF" width="100%"/>
-        <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight&hide_border=true&background=0D1117&ring=2088FF&fire=2088FF&currStreakLabel=2088FF" width="100%"/>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" width="100%" />
       </div>
     </td>
   </tr>
@@ -49,76 +49,7 @@
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="javascript"/>
-        <br/>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="typescript"/>
-        <br/>TypeScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="react"/>
-        <br/>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="nextjs"/>
-        <br/>Next.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs"/>
-        <br/>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="express"/>
-        <br/>Express
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb"/>
-        <br/>MongoDB
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="redux"/>
-        <br/>Redux
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python"/>
-        <br/>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind"/>
-        <br/>Tailwind
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap"/>
-        <br/>Bootstrap
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="git"/>
-        <br/>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="github"/>
-        <br/>GitHub
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode"/>
-        <br/>VS Code
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman"/>
-        <br/>Postman
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="figma"/>
-        <br/>Figma
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,redux,tailwind,bootstrap,git,github,vscode,postman,figma&perline=11" />
 </div>
 
 <br/>
