@@ -86,7 +86,7 @@ I enjoy building real-world applications and continuously improving my skills.
 <img src="https://img.shields.io/badge/Email-2088FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://port-frontend-bja0.onrender.com/projects" target="_blank">
+<a href="https://port-frontend-bja0.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-2088FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
