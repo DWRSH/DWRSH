@@ -44,8 +44,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -53,15 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-git-main-rickstaa.vercel.app/?username=DWRSH&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DWRSH&theme=tokyo-night" />
+<img src="https://github-profile-trophy.vercel.app/?username=DWRSH&theme=tokyonight" />
 </p>
 
 ---
