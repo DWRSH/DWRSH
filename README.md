@@ -1,81 +1,90 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Darsh%20Prajapati&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Web%20and%20Mobile%20Future&descAlignY=55&descSize=20&fontColor=ffffff" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Darsh Prajapati</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Native+%2F+Expo+Wizard;Open+Source+Enthusiast;Python+Scripter" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;MERN+Stack+Specialist;React+Native+%2F+Expo;Always+Learning+New+Tech" />
+</p>
 
-<br/>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        <b>Hi there! I'm Darsh.</b> I transform caffeine into code and ideas into reality. As a Full Stack Developer based in Gujarat, I specialize in building scalable web and mobile applications.
-      </p>
-      <ul>
-        <li>🚀 <b>Currently:</b> Pursuing B.Sc. (CA & IT) &amp; Freelancing</li>
-        <li>💡 <b>Stack:</b> MERN (Web) &amp; React Native (App)</li>
-        <li>🌱 <b>Learning:</b> Advanced Next.js, AI Agents &amp; System Design</li>
-        <li>💬 <b>Ask me about:</b> JavaScript, App Logic, or Anime</li>
-        <li>📫 <b>Fun Fact:</b> I debug code in my sleep (literally).</li>
-      </ul>
-      <br/>
-      <div align="left">
-        <a href="mailto:darshprajapati1510@gmail.com">
-          <img src="https://img.shields.io/badge/Hire_Me-2088FF?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/darshprajapati15/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://github.com/DWRSH">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <h3>🔥 Core Tech</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux" perline="3" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=ts,js,python,java" perline="4" />
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=DWRSH&style=flat-square&color=2088FF" />
+</p> -->
 
 ---
 
-<h2 align="center">🛠️ Full Technical Arsenal</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,firebase,postgres" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,tailwind,bootstrap,materialui" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,vercel,netlify" />
-</div>
+<h3 align="center">🚀 Turning Ideas Into Real Applications</h3>
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DWRSH/DWRSH/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
+## 👨‍💻 About Me
+
+I'm **Darsh Prajapati**, a passionate Full Stack Developer from Gujarat, India.
+
+- 🎓 B.Sc. (CA & IT) — Pursuing  
+- 💻 MERN Stack Developer  
+- 📱 Android App Developer (React Native / Expo)  
+- 🐍 Python Developer  
+- 🌱 Currently learning Advanced Next.js & AI Integration  
+- 💼 Open to Internship / Junior Developer roles  
+
+I enjoy building real-world applications and continuously improving my skills.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=120&section=footer"/>
-  <br/>
-  <h3><i>"Code is like humor. When you have to explain it, it’s bad."</i></h3>
-  <br/>
-  <a href="https://github.com/DWRSH">
-    <img src="https://img.shields.io/github/followers/DWRSH?style=social&label=Follow&style=flat-square" />
-  </a>
-</div>
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,ts,js,html,css,tailwind,bootstrap,python,git,github,vscode,postman&perline=8" />
+</p>
+
+---
+
+## ⚡ Profile Highlights
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DWRSH&style=flat-square&color=2088FF" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React%20Native-2088FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-2088FF?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-2088FF?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2088FF?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/DWRSH?style=for-the-badge&color=2088FF" />
+<img src="https://img.shields.io/github/stars/DWRSH?style=for-the-badge&color=2088FF" />
+</p>
+
+
+
+
+
+## 🐍 My Coding Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DWRSH/DWRSH/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/darshprajapati15/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-2088FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:darshprajapati1510@gmail.com">
+<img src="https://img.shields.io/badge/Email-2088FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2088FF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
