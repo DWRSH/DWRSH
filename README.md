@@ -85,9 +85,14 @@ I enjoy building real-world applications and continuously improving my skills.
 <a href="mailto:darshprajapati1510@gmail.com">
 <img src="https://img.shields.io/badge/Email-2088FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://port-frontend-bja0.onrender.com/projects" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-2088FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2088FF&height=120&section=footer"/>
