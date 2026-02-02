@@ -37,19 +37,24 @@ I enjoy building real-world applications and continuously improving my skills.
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Profile Highlights
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/DWRSH?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/DWRSH?style=for-the-badge" />
-<img src="https://img.shields.io/github/last-commit/DWRSH/smart-note-taker?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=DWRSH&style=flat-square&color=2088FF" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Top%20Language-JavaScript-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-Native-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Expo-Mobile-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React%20Native-2088FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-2088FF?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-2088FF?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2088FF?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/DWRSH?style=for-the-badge&color=2088FF" />
+<img src="https://img.shields.io/github/stars/DWRSH?style=for-the-badge&color=2088FF" />
+</p>
+
 
 
 
