@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;MERN+Stack+Specialist;React+Native+%2F+Expo;Always+Learning+New+Tech" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DWRSH&style=flat-square&color=2088FF" />
-</p>
+</p> -->
 
 ---
 
