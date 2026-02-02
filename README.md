@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/darshprajapati15/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
