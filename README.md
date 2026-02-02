@@ -8,10 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DWRSH&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
 
 <table border="0" width="100%">
