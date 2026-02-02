@@ -40,20 +40,23 @@ I enjoy building real-world applications and continuously improving my skills.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&icon_color=2088FF" alt="Darsh's GitHub Stats" />
 </p>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight&hide_border=true&background=0D1117&ring=2088FF&fire=2088FF&currStreakLabel=2088FF" alt="Darsh's Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF" alt="Top Languages" />
+</p>
 
-## 🐍 Contribution Activity
+<br/>
+
+## 🐍 My Coding Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DWRSH/DWRSH/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DWRSH/DWRSH/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
