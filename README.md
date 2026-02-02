@@ -12,7 +12,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
         <b>Hi there! I'm Darsh.</b> I transform caffeine into code and ideas into reality. As a Full Stack Developer based in Gujarat, I specialize in building scalable web and mobile applications.
@@ -32,13 +32,17 @@
         <a href="https://www.linkedin.com/in/darshprajapati15/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
+        <a href="https://github.com/DWRSH">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </div>
     </td>
-    <td width="45%" valign="center">
+    <td width="40%" valign="center">
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight&hide_border=true&background=0D1117&ring=2088FF&fire=2088FF&currStreakLabel=2088FF" width="100%"/>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" width="100%" />
+        <h3>🔥 Core Tech</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux" perline="3" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=ts,js,python,java" perline="4" />
       </div>
     </td>
   </tr>
@@ -46,16 +50,14 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center">🛠️ Full Technical Arsenal</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,redux,tailwind,bootstrap,git,github,vscode,postman,figma&perline=11" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2088FF&langs_count=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,firebase,postgres" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,tailwind,bootstrap,materialui" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,vercel,netlify" />
 </div>
 
 ---
