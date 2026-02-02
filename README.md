@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Darsh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+App+Developer;React+Native+%2F+Expo;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;React+Native+%2F+Expo;Python+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,node,python,git,github,html,css" />
+<img src="https://komarev.com/ghpvc/?username=DWRSH&style=flat-square&color=blue" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,node,python,git,github,html,css,mongodb&perline=9" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer (MERN)
-- 📱 Android App Developer (React Native / Expo)
+- 💻 Full Stack Developer (MERN)  
+- 📱 Android App Developer (React Native / Expo)  
 - 🐍 Python Developer  
-- 🎓 B.Sc. CA & IT (Pursuing)
-- 🔥 Love building real-world projects
+- 🎓 B.Sc. CA & IT (Pursuing)  
+- 🔥 Turning ideas into real apps  
 
 ---
 
@@ -33,17 +39,17 @@
 
 ### 📘 Smart Note Taker
 
-An Android app to save, organize, and open PDF/EPUB files offline with categories and favorites.
+Android app to save, organize, and open PDF/EPUB files offline.
 
-👉 Repository: https://github.com/DWRSH/smart-note-taker
+👉 Repo: https://github.com/DWRSH/smart-note-taker
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -51,18 +57,30 @@ An Android app to save, organize, and open PDF/EPUB files offline with categorie
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DWRSH&theme=tokyonight&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=DWRSH&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DWRSH&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DWRSH&theme=tokyo-night" />
 </p>
 
 ---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DWRSH/DWRSH/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 ⭐ Always learning. Always building.  
 🚀 Future Software Engineer.
