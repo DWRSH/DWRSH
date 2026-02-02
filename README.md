@@ -40,13 +40,13 @@ I enjoy building real-world applications and continuously improving my skills.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DWRSH&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DWRSH&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=DWRSH&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWRSH&layout=compact&theme=dark" />
 </p>
+
 
 
 ## 🐍 My Coding Activity
